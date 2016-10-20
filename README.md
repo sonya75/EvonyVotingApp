@@ -4,6 +4,6 @@ Its a voting app for Evony based on pyEvony. For this app to work, price of some
 
 	python vote.py server resourcename voteguy
 	
-voteapp.py is the GUI for usiing vote.py
+voteapp.py is the GUI for using vote.py
 
 The compiled versions are in the release folder. Download the folder and run voteapp.exe for using it.
